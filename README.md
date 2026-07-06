@@ -3,6 +3,7 @@ Samsung One UI lockscreen widgets and blur effect customization toolkit.
 
 
 # Samsung Lock Screen Widgets and Blur
+Note: The blur method is taken from an account on X platform @thatjoshguy69
 
 This project explains how to prepare Android widgets for Samsung One UI features such as Lock Screen widgets, AOD widgets, Home Screen widgets, Samsung widget sizes, colorful and monotone styles, and launcher blur background behavior.
 
